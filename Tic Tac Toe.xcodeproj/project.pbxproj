@@ -15,6 +15,9 @@
 		84310E2223E884FD005364CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84310E2023E884FD005364CD /* LaunchScreen.storyboard */; };
 		84310E2D23E884FD005364CD /* Tic_Tac_ToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84310E2C23E884FD005364CD /* Tic_Tac_ToeTests.swift */; };
 		84310E3823E884FD005364CD /* Tic_Tac_ToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84310E3723E884FD005364CD /* Tic_Tac_ToeUITests.swift */; };
+		84310E4623E88578005364CD /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = 84310E4523E88578005364CD /* board.png */; };
+		84310E4923E8858A005364CD /* x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84310E4723E8858A005364CD /* x.png */; };
+		84310E4A23E8858A005364CD /* o.png in Resources */ = {isa = PBXBuildFile; fileRef = 84310E4823E8858A005364CD /* o.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		84310E3323E884FD005364CD /* Tic Tac ToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tic Tac ToeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84310E3723E884FD005364CD /* Tic_Tac_ToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tic_Tac_ToeUITests.swift; sourceTree = "<group>"; };
 		84310E3923E884FD005364CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84310E4523E88578005364CD /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
+		84310E4723E8858A005364CD /* x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x.png; sourceTree = "<group>"; };
+		84310E4823E8858A005364CD /* o.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = o.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +109,9 @@
 				84310E1723E884FC005364CD /* SceneDelegate.swift */,
 				84310E1923E884FC005364CD /* ViewController.swift */,
 				84310E1B23E884FC005364CD /* Main.storyboard */,
+				84310E4523E88578005364CD /* board.png */,
+				84310E4723E8858A005364CD /* x.png */,
+				84310E4823E8858A005364CD /* o.png */,
 				84310E1E23E884FD005364CD /* Assets.xcassets */,
 				84310E2023E884FD005364CD /* LaunchScreen.storyboard */,
 				84310E2323E884FD005364CD /* Info.plist */,
@@ -232,6 +241,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84310E4923E8858A005364CD /* x.png in Resources */,
+				84310E4623E88578005364CD /* board.png in Resources */,
+				84310E4A23E8858A005364CD /* o.png in Resources */,
 				84310E2223E884FD005364CD /* LaunchScreen.storyboard in Resources */,
 				84310E1F23E884FD005364CD /* Assets.xcassets in Resources */,
 				84310E1D23E884FC005364CD /* Main.storyboard in Resources */,
